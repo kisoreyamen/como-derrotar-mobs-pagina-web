@@ -1,0 +1,14 @@
+
+.header {
+    background-image: url("../img/descripciones/shulker.png");
+    background-size: 450px;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-color: #ffffff;
+    padding: 23vh 30px;
+    margin-bottom: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    height: 350px
+}
